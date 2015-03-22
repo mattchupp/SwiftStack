@@ -8,11 +8,11 @@
 
 import Foundation
 
-class swiftStack {
+class SwiftStack {
     
     var stack = [String]()
     
-    func swiftStack() {
+    func SwiftStack() {
         
     }
     
