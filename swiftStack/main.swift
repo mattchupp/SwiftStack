@@ -8,5 +8,12 @@
 
 import Foundation
 
-println("Hello, World!")
 
+let stack = swiftStack()
+
+stack.push("hello")
+stack.push("how")
+
+stack.pop()
+
+stack.top()
